@@ -6,11 +6,11 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ControlAndConversionStructures\Plets.Core.ControlAndConversionStructures.csproj">
+    <ProjectReference Include="../ControlAndConversionStructures/Plets.Core.ControlAndConversionStructures.csproj">
     </ProjectReference>
-    <ProjectReference Include="..\ControlStructure\Plets.Core.ControlStructure.csproj">
+    <ProjectReference Include="../ControlStructure/Plets.Core.ControlStructure.csproj">
     </ProjectReference>
-    <ProjectReference Include="..\ConversionUnit\Plets.Core.ConversionUnit.csproj">
+    <ProjectReference Include="../ConversionUnit/Plets.Core.ConversionUnit.csproj">
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
